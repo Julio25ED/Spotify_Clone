@@ -1,34 +1,40 @@
-🎵 Spotify Clone
-Este projeto é um clone da interface do Spotify, criado para praticar habilidades de desenvolvimento web e replicar a experiência de um player de música moderno.
+# 🎵 Spotify Clone
 
-🚀 Como Visualizar o Projeto
-Para ver este projeto em ação, siga os passos abaixo. Você pode baixá-lo diretamente do GitHub e executá-lo no seu navegador.
+Este projeto é um clone da interface do Spotify, criado para aprimorar habilidades em desenvolvimento web.
 
-Clone o repositório:
-Abra seu terminal ou prompt de comando e execute o seguinte comando:
+## 🚀 Instruções de Visualização
+
+Para visualizar o projeto, siga estes passos. O repositório pode ser clonado do GitHub e executado em um navegador.
+
+1. **Clonagem do Repositório:**
+   Execute o comando:
+
 
 git clone https://github.com/Julio25ED/Spotify_Clone.git
 
-Abra a pasta do projeto:
-Navegue até o diretório do projeto clonado:
+
+2. **Acesso ao Diretório:**
+Navegue até o diretório do projeto com o comando:
+
 
 cd Spotify_Clone
 
-Abra o arquivo HTML:
-Localize o arquivo index.html na pasta principal do projeto. Clique duas vezes nele ou arraste-o para o seu navegador (Google Chrome, Firefox, etc.).
 
-Pronto! O projeto será carregado e você poderá interagir com a interface.
+3. **Execução no Navegador:**
+Abra o arquivo `index.html` em seu navegador para carregar a aplicação.
 
-✨ Recursos
-Interface de usuário fiel ao Spotify.
+## ✨ Recursos
 
-Design responsivo (desktop e mobile).
+* Interface que replica a estética e funcionalidade do Spotify.
 
-Seção de navegação e reprodução de música.
+* Design responsivo para múltiplos dispositivos.
 
-🛠️ Tecnologias Utilizadas
-HTML: Estrutura da página.
+* Implementação de navegação e funcionalidades de reprodução.
 
-CSS: Estilização e design da interface.
+## 🛠️ Tecnologias Empregadas
 
-JavaScript: Interatividade da página.
+* **HTML:** Estruturação da página.
+
+* **CSS:** Estilização e design da interface.
+
+* **JavaScript:** Interatividade da aplicação.
